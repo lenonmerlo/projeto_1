@@ -42,4 +42,4 @@ Espero que gostem do projeto! 😄
 Feito com ❤️ por Lenon Merlo com a ajuda de Gui e Rafa da Alura nos cursos de HTML e CSS.
 
 
-Você pode personalizar o conteúdo conforme necessário. Não se esqueça de ajustar o exemplo de animação CSS de acordo com o que você implementou no seu projeto.
+Você pode personalizar o conteúdo conforme necessário. 
