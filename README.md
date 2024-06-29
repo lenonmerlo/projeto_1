@@ -22,24 +22,16 @@ Este projeto foi desenvolvido para demonstrar minhas habilidades em HTML e CSS. 
 - Design moderno e limpo 🧼
 - Uso de CSS para estilização 💅
 
-Como Usar
-Clone o repositório:
-git clone https://github.com/lenonmerlo/projeto_1.git
-
-Abra o arquivo index.html no seu navegador preferido.
-
-Aproveite e explore o projeto!
-
 Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
 📧 lenontm@gmail.com
 
-🌐 LinkedIn
+🌐 https://www.linkedin.com/in/lenon-merlo-873082239
 
 Espero que gostem do projeto! 😄
 
 Feito com ❤️ por Lenon Merlo com a ajuda de Gui e Rafa da Alura nos cursos de HTML e CSS.
 
 
-Você pode personalizar o conteúdo conforme necessário. 
+
